@@ -1,3 +1,4 @@
+Vídeo: O cidadão desenvolvedor e a IA 🎥
 # O cidadão desenvolvedor e a IA ;)
 ![image](https://github.com/user-attachments/assets/cf7de1bd-1e72-4974-8e2f-2e18e27a2d5f)
 
