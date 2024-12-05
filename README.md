@@ -1,4 +1,5 @@
 Vídeo: O cidadão desenvolvedor e a IA 🎥
+
 https://app.heygen.com/share/38adceb0a9f341e6a5472916b5e39bb9
 
 # O cidadão desenvolvedor e a IA ;)
