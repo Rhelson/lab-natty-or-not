@@ -1,4 +1,6 @@
 Vídeo: O cidadão desenvolvedor e a IA 🎥
+https://app.heygen.com/share/38adceb0a9f341e6a5472916b5e39bb9
+
 # O cidadão desenvolvedor e a IA ;)
 ![image](https://github.com/user-attachments/assets/cf7de1bd-1e72-4974-8e2f-2e18e27a2d5f)
 
@@ -7,10 +9,12 @@ Vídeo: O cidadão desenvolvedor e a IA 🎥
 O cidadão desenvolvedor é um protagonista ativo na transformação digital. Com o apoio de tecnologias como a Inteligência Artificial (IA) e ferramentas low-code.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para roteirização e revisão;
+IA Generativa HeyGen para geração de vidio;
+IA Generativa Github para geração de imagem;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+usei o ChatGPT para roteirização e revisão, HeyGen para geração de vidio e Github para geração de imagem;
 
 ## 🚀 Resultados
 O cidadão desenvolvedor é um protagonista ativo na transformação digital. Com o apoio de tecnologias como a Inteligência Artificial (IA), ele se torna capaz de criar soluções inovadoras que atendam às demandas da sociedade, mesmo sem conhecimentos técnicos profundos. Ferramentas acessíveis de IA democratizam o acesso ao desenvolvimento de aplicativos, análises de dados e automação de processos, permitindo que cidadãos comuns resolvam problemas locais e globais de forma ágil e criativa. Essa sinergia entre o cidadão desenvolvedor e a IA promove inclusão tecnológica, acelera a inovação e contribui para um futuro transformador em nossas vidas.
